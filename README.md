@@ -30,10 +30,13 @@ A modern and responsive **Clothing E-Commerce Web Application** built using Djan
 ## 📸 Screenshots
 
 ### 🏠 Homepage
-![Home](your-image-link-here)
+![Home](https://github.com/anjalipandey08/Mini-ecommerce-using-Django/blob/main/homepage.png)
 
 ### 🔐 Admin Panel
-![Admin](your-image-link-here)
+![Admin](https://github.com/anjalipandey08/Mini-ecommerce-using-Django/blob/main/adminpage.png)
+
+### 👨‍💼 Admin Login
+![Admin_login](https://github.com/anjalipandey08/Mini-ecommerce-using-Django/blob/main/admin_login.png)
 
 ---
 
